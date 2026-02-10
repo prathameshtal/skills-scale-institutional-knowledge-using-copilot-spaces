@@ -13,11 +13,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
-- High-level timeline and key milestones
-- Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Project One-pager (Problem, Goal, Success Metrics) — led by **Product Manager** with **Business Analyst**
+- Stakeholder list & communication plan — coordinated by **Project Manager**
+- High-level timeline and key milestones — **Project Manager** drafts
+- Initial risk list — input from all roles
+- Resource needs (team roles, rough effort estimate) — including **Developers**, **QA Lead**, **UX Designer**, **DevOps Engineer**
 
 ## Project One-pager Template
 - Project name:

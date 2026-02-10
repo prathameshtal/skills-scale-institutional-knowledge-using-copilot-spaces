@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Lead** maintains test strategy, manages automation, and validates acceptance criteria
+- Test coverage metrics tracked and reported weekly
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -35,6 +37,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
+- [ ] CI configured for tests and lint (coordinated by **DevOps Engineer**)
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Test automation strategy defined by **QA Lead**
+- [ ] Infrastructure and deployment readiness tracked by **DevOps Engineer**
